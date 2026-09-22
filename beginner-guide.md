@@ -3,7 +3,7 @@
 Building a DIY miniature house can be a fun way to explore crafting, decoration, and small-scale design.
 
 
-[![Beginner DIY miniature house kit](images/beginner-miniature-house-kit.jpg)](https://cdn.shopify.com/s/files/1/0742/2813/8140/files/beginner-miniature-house-kit-collection-popular-picks.webp?v=1789893325))
+![Beginner Miniature House Kit Collection Popular Picks](https://cdn.shopify.com/s/files/1/0742/2813/8140/files/beginner-miniature-house-kit-collection-popular-picks.webp?v=1789893325)
 
 For a first project, however, it can be difficult to know what to expect. How many pieces should you choose? How long will assembly take? What tools do you need?
 
