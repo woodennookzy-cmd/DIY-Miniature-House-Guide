@@ -149,7 +149,7 @@ Popular styles include:
 
 Your first project may take several hours or more to complete, so choosing a theme you genuinely enjoy can make the experience much more rewarding.
 
-![Beginner DIY miniature house kit]([images/beginner-miniature-house-kit.jpg](https://cdn.shopify.com/s/files/1/0742/2813/8140/files/beginner-miniature-house-kit-collection-popular-picks.webp?v=1789893325))
+[![Beginner DIY miniature house kit]([images/beginner-miniature-house-kit.jpg](https://cdn.shopify.com/s/files/1/0742/2813/8140/files/beginner-miniature-house-kit-collection-popular-picks.webp?v=1789893325))
 
  Choosing Your First Miniature House
 
