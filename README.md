@@ -84,13 +84,11 @@ A beginner-friendly project can help you learn basic miniature assembly techniqu
 More resources will be added to this project over time.
 
  [A Beginner's Guide to DIY Miniature Houses](beginner-guide.md)
- 
- [How to Choose the Right Miniature House Kit](choosing-a-miniature-house.md)
- 
- [DIY Miniature House Assembly Tips](assembly-tips.md)
- 
+  
  [Miniature Houses vs. Dollhouses](miniature-house-vs-dollhouse.md)
  
+ [DIY Miniature House Assembly Tips](assembly-tips.md)
+
  [How to Display a Finished Miniature House](miniature-house-display.md)
 
  About This Project
