@@ -132,8 +132,6 @@ A finished model might sit on:
 
 Check the finished dimensions before purchasing a project so you know whether it will fit comfortably in your intended space.
 
-[![Beginner DIY miniature house kit]([https://cdn.shopify.com/s/files/1/0742/2813/8140/files/beginner-miniature-house-kit-collection-popular-picks.webp?v=1789893325](https://cdn.shopify.com/s/files/1/0742/2813/8140/files/enchanted-cottage-diy-miniature-house-kit-lifestyle-3.webp?v=1786330976)))
-
  8. Choose a Theme You Enjoy
 
 Miniature houses are available in many different themes.
