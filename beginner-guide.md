@@ -1,4 +1,4 @@
- A Beginner's Guide to DIY Miniature Houses
+## A Beginner's Guide to DIY Miniature Houses
 
 Building a DIY miniature house can be a fun way to explore crafting, decoration, and small-scale design.
 
@@ -24,7 +24,7 @@ Depending on the design, you may work with:
 
 Some materials may need to be prepared separately, so always check the contents of a kit before starting.
 
- 1. Start With a Manageable Project
+## 1. Start With a Manageable Project
 
 If this is your first miniature house, choosing a project that matches your experience is important.
 
@@ -40,7 +40,7 @@ Once you become comfortable with the basic process, you can move on to more deta
 
 There is no need to start with the most complicated design available.
 
- 2. Prepare Your Workspace
+## 2. Prepare Your Workspace
 
 A clean and well-organized workspace can make miniature assembly much easier.
 
@@ -56,7 +56,7 @@ A useful workspace may include:
 
 Keeping pieces organized is particularly important when a project contains many similar-looking parts.
 
- 3. Read the Instructions Before Assembly
+## 3. Read the Instructions Before Assembly
 
 It can be tempting to start building immediately after opening the box.
 
@@ -72,7 +72,7 @@ Pay attention to:
 
 Understanding the overall structure before starting can make each individual step easier to follow.
 
- 4. Sort the Small Pieces
+## 4. Sort the Small Pieces
 
 One of the easiest ways to make a miniature project more manageable is to organize the pieces before assembling them.
 
@@ -88,7 +88,7 @@ You can organize components by:
 
 Small containers, trays, or even simple labeled bags can help prevent pieces from getting mixed together.
 
- 5. Work One Section at a Time
+## 5. Work One Section at a Time
 
 You do not have to complete the entire miniature house in one sitting.
 
@@ -108,7 +108,7 @@ This approach can make a large project feel much more manageable.
 
 It also gives you time to enjoy the process instead of focusing only on finishing the model.
 
- 6. Take Your Time With Small Details
+## 6. Take Your Time With Small Details
 
 Miniature houses are often defined by their tiny details.
 
@@ -118,7 +118,7 @@ Small parts can also be easier to damage or misplace, so it is worth slowing dow
 
 If something does not fit correctly, check the instructions and surrounding pieces before forcing it into place.
 
- 7. Check the Finished Dimensions
+## 7. Check the Finished Dimensions
 
 Before choosing a miniature house, think about where you want to display it.
 
@@ -132,7 +132,7 @@ A finished model might sit on:
 
 Check the finished dimensions before purchasing a project so you know whether it will fit comfortably in your intended space.
 
- 8. Choose a Theme You Enjoy
+## 8. Choose a Theme You Enjoy
 
 Miniature houses are available in many different themes.
 
@@ -149,7 +149,7 @@ Popular styles include:
 
 Your first project may take several hours or more to complete, so choosing a theme you genuinely enjoy can make the experience much more rewarding.
 
- Choosing Your First Miniature House
+## Choosing Your First Miniature House
 
 There is no single perfect miniature house for everyone.
 
@@ -166,7 +166,7 @@ A good starting point is to compare:
 
 For beginners who want to compare different styles and difficulty levels, [beginner miniature house kits](https://woodennookzy.com/collections/beginner) can be a useful starting point.
 
- Enjoy the Process
+## Enjoy the Process
 
 A DIY miniature house is not just about the finished model.
 
@@ -176,7 +176,7 @@ You may not finish everything in one day, and that is completely fine.
 
 Treat each small section as its own project and enjoy watching the miniature world develop over time.
 
- Final Checklist
+## Final Checklist
 
 Before starting your first project, make sure you have:
 
