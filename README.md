@@ -86,10 +86,10 @@ More resources will be added to this project over time.
  [A Beginner's Guide to DIY Miniature Houses](beginner-guide.md)
   
  [Miniature Houses vs. Dollhouses](miniature-house-vs-dollhouse.md)
- 
- [Miniature House Themes](miniature-house-themes.md)
 
  [How to Display a Finished Miniature House](miniature-house-display.md)
+ 
+ [Miniature House Themes](miniature-house-themes.md)
 
  About This Project
 
