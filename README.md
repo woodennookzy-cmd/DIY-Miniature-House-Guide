@@ -87,7 +87,7 @@ More resources will be added to this project over time.
   
  [Miniature Houses vs. Dollhouses](miniature-house-vs-dollhouse.md)
  
-- [Miniature House Themes](miniature-house-themes.md)
+ [Miniature House Themes](miniature-house-themes.md)
 
  [How to Display a Finished Miniature House](miniature-house-display.md)
 
